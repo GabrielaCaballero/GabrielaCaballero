@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GabrielaCaballero
-- 👀 I’m interested in product management, data analysis and machine learning competitions, and web development
+- 👀 I’m interested in product management, data analysis, machine learning competitions, and web development
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me lmgabrielac@gmail.com
